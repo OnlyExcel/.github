@@ -2,7 +2,7 @@
 name: 🐞 Bug
 about: File a bug
 title: 'Bug: <title>'
-labels: Bug
+labels: bug
 ---
 
 **Describe the bug**

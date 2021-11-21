@@ -1,7 +1,8 @@
 ---
-name:✅ Issue
-about: Create a new issue
-title: '<title>'
+name: ✅ Issue
+about: Create an issue
+title: ''
+labels: ''
 ---
 
 **Detailed description**

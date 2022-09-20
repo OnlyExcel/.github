@@ -8,3 +8,4 @@ Checklist:
 - [ ] manually tested in the browser?
 - [ ] good code hygiene? 
 - [ ] updated `/docs` where applicable?
+- [ ] recorded time estimate?

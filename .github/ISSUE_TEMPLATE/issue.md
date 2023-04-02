@@ -8,3 +8,5 @@ labels: ''
 **Detailed description**
 
 **Blockers?**
+
+[Log time](https://manage.onlyexcel.com/tasks/remote#launch=LogTime)

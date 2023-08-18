@@ -5,6 +5,4 @@ title: ''
 labels: ''
 ---
 
-**Detailed description**
-
-**Blockers?**
+- [ ] Estimated time:

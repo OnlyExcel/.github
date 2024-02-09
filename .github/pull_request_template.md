@@ -6,6 +6,6 @@ Checklist:
 
 - [ ] automated tests pass?
 - [ ] manually tested in the browser?
-- [ ] good code hygiene? 
-- [ ] updated `/docs` where applicable?
+- [ ] uploaded video demonstration if applicable?
+- [ ] updated `/docs` if applicable?
 - [ ] recorded time estimate?
